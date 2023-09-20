@@ -1,0 +1,16 @@
+/*
+ PT-BR
+
+ Um programa em C consiste em uma ou várias funções, cuja forma geral é a
+ seguinte:
+*/
+
+tipo nomeFunc(declaração dos parâmetros)
+{
+    declaração de variáveis;
+    instrução_2;
+    ..............
+    instrução_n;
+    return var_tipo;
+}
+
